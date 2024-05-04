@@ -1,0 +1,79 @@
+Vehicle: TollFreeVehicle[type=MOTORBIKE] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=MOTORBIKE], has fees: 0, making total fees equals: 0 
+Vehicle: TollFreeVehicle[type=TRACTOR] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=TRACTOR], has fees: 0, making total fees equals: 0 
+Vehicle: TollFreeVehicle[type=EMERGENCY] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=EMERGENCY], has fees: 0, making total fees equals: 0 
+Vehicle: TollFreeVehicle[type=DIPLOMAT] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=DIPLOMAT], has fees: 0, making total fees equals: 0 
+Vehicle: TollFreeVehicle[type=FOREIGN] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=FOREIGN], has fees: 0, making total fees equals: 0 
+Vehicle: TollFreeVehicle[type=MILITARY] came in with dates: [2024-05-03T09:30:13.915279200Z]
+Date: 2024-05-03T09:30:13.915279200Z for vehicle: TollFreeVehicle[type=MILITARY], has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@3901d134 came in with dates: [2024-05-04T15:30Z]
+Date: 2024-05-04T15:30Z for vehicle: cam.fawry.task.entities.Car@3901d134, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@3901d134 came in with dates: [2024-05-05T15:30Z]
+Date: 2024-05-05T15:30Z for vehicle: cam.fawry.task.entities.Car@3901d134, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T08:29Z]
+Date: 2024-01-02T08:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 13, making total fees equals: 13 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T09:29Z]
+Date: 2024-01-02T09:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T06:30Z]
+Date: 2024-01-02T06:30Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 13, making total fees equals: 13 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T08:30Z]
+Date: 2024-01-02T08:30Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 8, making total fees equals: 8 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T18:29Z]
+Date: 2024-01-02T18:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 8, making total fees equals: 8 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T15:29Z]
+Date: 2024-01-02T15:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 13, making total fees equals: 13 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T06:29Z]
+Date: 2024-01-02T06:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 8, making total fees equals: 8 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T15:30Z]
+Date: 2024-01-02T15:30Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 18, making total fees equals: 18 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T17:29Z]
+Date: 2024-01-02T17:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 13, making total fees equals: 13 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T18:30Z]
+Date: 2024-01-02T18:30Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T16:29Z]
+Date: 2024-01-02T16:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 18, making total fees equals: 18 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T07:29Z]
+Date: 2024-01-02T07:29Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 18, making total fees equals: 18 
+Vehicle: cam.fawry.task.entities.Car@4c1d9d4b came in with dates: [2024-01-02T09:30Z]
+Date: 2024-01-02T09:30Z for vehicle: cam.fawry.task.entities.Car@4c1d9d4b, has fees: 8, making total fees equals: 8 
+Vehicle: cam.fawry.task.entities.Car@7b227d8d came in with dates: [2024-01-02T06:29Z, 2024-01-02T06:30Z]
+Date: 2024-01-02T06:29Z for vehicle: cam.fawry.task.entities.Car@7b227d8d, has fees: 8, making total fees equals: 8 
+Date: 2024-01-02T06:30Z for vehicle: cam.fawry.task.entities.Car@7b227d8d, is less than an hour after the previous date, has fees: 13, making total fees equals (after retaining only the highest date's fee): 13 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-01-01T15:00Z]
+Date: 2013-01-01T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-03-28T15:00Z]
+Date: 2013-03-28T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-03-29T15:00Z]
+Date: 2013-03-29T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-04-01T15:00Z]
+Date: 2013-04-01T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-04-30T15:00Z]
+Date: 2013-04-30T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-05-01T15:00Z]
+Date: 2013-05-01T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-05-08T15:00Z]
+Date: 2013-05-08T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-05-09T15:00Z]
+Date: 2013-05-09T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-06-05T15:00Z]
+Date: 2013-06-05T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-06-06T15:00Z]
+Date: 2013-06-06T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-06-21T15:00Z]
+Date: 2013-06-21T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-07-09T15:00Z]
+Date: 2013-07-09T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-11-01T15:00Z]
+Date: 2013-11-01T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-12-24T15:00Z]
+Date: 2013-12-24T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-12-25T15:00Z]
+Date: 2013-12-25T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-12-26T15:00Z]
+Date: 2013-12-26T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
+Vehicle: cam.fawry.task.entities.Car@30b7c004 came in with dates: [2013-12-31T15:00Z]
+Date: 2013-12-31T15:00Z for vehicle: cam.fawry.task.entities.Car@30b7c004, has fees: 0, making total fees equals: 0 
